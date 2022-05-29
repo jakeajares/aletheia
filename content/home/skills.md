@@ -9,26 +9,26 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: The Upshot
 subtitle:
-active: false
+active: true
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 90%
-    icon: r-project
+  - description: All articles complying with the journal's policies are accepted
+    icon: x
     icon_pack: fab
-    name: R
-  - description: 100%
-    icon: chart-line
+    name: No Gatekeeping
+  - description: No drawn-out, multi-round R&R process, and all reviews are signed and publicly available.
+    icon: comments
     icon_pack: fas
-    name: Statistics
-  - description: 10%
-    icon: camera-retro
+    name: Efficient and Transparent Peer-Review
+  - description: All articles are freely available to the public.
+    icon: lock-open
     icon_pack: fas
-    name: Photography
+    name: Open-Access
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
