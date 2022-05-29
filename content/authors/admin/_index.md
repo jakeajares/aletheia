@@ -3,7 +3,7 @@ bio: This is a short snippet to describe Aletheia on any posts we make.
 email: ""
 highlight_name: true
 Organizers:
-- [Role]: Neil Malhotra, Stanford Graduate School of Business
+- Neil Malhotra, Stanford Graduate School of Business
 
 role: The Something Something Journal
 social:
