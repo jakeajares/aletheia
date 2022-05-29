@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Atheneia is an online journal created with transparency and efficiency in mind.
+title: Aletheia is an online journal created with transparency and efficiency in mind.
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
