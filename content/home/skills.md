@@ -17,7 +17,7 @@ active: true
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: All submissions complying with the journal's policies are accepted for publication.
+  - description: All submissions that comply with the journal's content policies are accepted for publication.
     icon: x
     icon_pack: fab
     name: No Gatekeeping
