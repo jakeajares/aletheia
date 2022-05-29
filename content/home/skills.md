@@ -17,7 +17,7 @@ active: true
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: All articles complying with the journal's policies are accepted
+  - description: All submissions complying with the journal's policies are accepted for publication.
     icon: x
     icon_pack: fab
     name: No Gatekeeping
@@ -25,7 +25,7 @@ feature:
     icon: comments
     icon_pack: fas
     name: Efficient and Transparent Peer-Review
-  - description: All articles are freely available to the public.
+  - description: All articles are freely available to the public, and there are no publication fees.
     icon: lock-open
     icon_pack: fas
     name: Open-Access
