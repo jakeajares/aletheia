@@ -6,7 +6,7 @@ authors:
 date: "2018-08-04T00:00:00Z"
 doi: ""
 publication_types:
-- "13"
+- "1"
 featured: true
 projects:
 - poli_sci_demo
@@ -22,11 +22,11 @@ url_slides: ""
 url_source: ""
 url_video: ""
 links:
-- icon: scroll
+- icon: file
   icon_pack: fa
   name: Revised Submission
   url: https://osf.io/qc5vt/
-- icon: scroll
+- icon: file
   icon_pack: fa
   name: Initial Submission
   url: https://osf.io/whjdb/

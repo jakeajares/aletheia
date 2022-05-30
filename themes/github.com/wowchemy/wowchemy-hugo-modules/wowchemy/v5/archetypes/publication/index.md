@@ -10,9 +10,11 @@ doi: ""
 publishDate: {{ .Date }}
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
+# Legend: 0 = Uncategorized; 1 = Accounting; 2 = Anthropology;
+# 3 = Business/Management; 4 = Economics; 5 = Finance; 6 = Geography;
+# 7 = History; 8 = Humanities; 9 = Marketing; 10 = Metascience;
+# 11 = Operations Research; 12 = Organizational Behavior; 13 = Political Science;
+# 14 = Psychology; 15 = Sociology
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
