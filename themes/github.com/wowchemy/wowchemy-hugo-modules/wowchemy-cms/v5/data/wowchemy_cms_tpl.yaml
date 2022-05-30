@@ -381,14 +381,21 @@ collections:
         multiple: true
         options:
           - { label: "Uncategorized", value: "0" }
-          - { label: "Conference paper", value: "1" }
-          - { label: "Journal article", value: "2" }
-          - { label: "Preprint / Working Paper", value: "3" }
-          - { label: "Report", value: "4" }
-          - { label: "Book", value: "5" }
-          - { label: "Book section", value: "6" }
-          - { label: "Thesis", value: "7" }
-          - { label: "Patent", value: "8" }
+          - { label: "Accounting", value: "1" }
+          - { label: "Anthropology", value: "2" }
+          - { label: "Business/Management", value: "3" }
+          - { label: "Economics", value: "4" }
+          - { label: "Finance", value: "5" }
+          - { label: "Geography", value: "6" }
+          - { label: "History", value: "7" }
+          - { label: "Humanities", value: "8" }
+          - { label: "Marketing", value: "9" }
+          - { label: "Metascience", value: "10" }
+          - { label: "Operations Research", value: "11" }
+          - { label: "Organizational Behavior", value: "12" }
+          - { label: "Political Science", value: "13" }
+          - { label: "Psychology", value: "14" }
+          - { label: "Sociology", value: "15" }
       - label: "Authors"
         name: "authors"
         required: true

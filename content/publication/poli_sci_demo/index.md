@@ -5,6 +5,8 @@ authors:
 - Ash Ketchum
 date: "2018-08-04T00:00:00Z"
 doi: ""
+publication_types:
+- "13"
 featured: true
 projects:
 - poli_sci_demo
