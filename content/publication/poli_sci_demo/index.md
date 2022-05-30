@@ -1,4 +1,6 @@
 ---
+
+# You can reset publication type translations in ~/Documents/aletheia/aletheia/themes/github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5/i18n/en.yaml
 abstract: Did the summer 2016 release of Nintendo's popular franchise cause players in the US to "Pokémon Go to the polls?" Using geolocated voter file data on individual-level turnout in combination with locations of reported legendary Pokémon sightings, we develop an instrumental variables strategy to estimate the effect of increased Pokémon Go play on voter turnout. We find that a two-hour increase in daily hours logged the week before Election Day caused an 8 percentage-point increase in 18-35 year-old turnout. To explore the mechanisms behind this effect, we note that our LATE is concentrated entirely among potential voters from states with same-day registration policies who resided near polling places that were also next to shiny Pokémon release events on Election Day. We conclude that our effect is most likely caused by players walking outside to catch Pokémon and accidentally walking up to a voting booth. Back-of-the-envelope calculations suggest that if Nintendo scheduled shiny Groudon events in every major US city on Election Day, Hillary Clinton would have won Michigan, but would have still failed to obtain a majority in the Electoral College.
 authors:
 - Misty Williams
@@ -6,7 +8,7 @@ authors:
 date: "2018-08-04T00:00:00Z"
 doi: ""
 publication_types:
-- "1"
+- "2"
 featured: true
 projects:
 - poli_sci_demo

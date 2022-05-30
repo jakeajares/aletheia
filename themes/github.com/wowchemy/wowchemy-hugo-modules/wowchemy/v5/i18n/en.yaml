@@ -157,7 +157,7 @@
   translation: Publication
 
 - id: publication_type
-  translation: Type
+  translation: Field
 
 - id: date
   translation: Date
@@ -175,28 +175,28 @@
   translation: Uncategorized
 
 - id: pub_conf
-  translation: Conference paper
+  translation: Economics
 
 - id: pub_journal
-  translation: Journal article
+  translation: Political Science
 
 - id: pub_preprint
-  translation: Preprint
+  translation: Sociology
 
 - id: pub_report
-  translation: Report
+  translation: Business/Management
 
 - id: pub_book
-  translation: Book
+  translation: Humanities
 
 - id: pub_book_section
-  translation: Book section
+  translation: Metascience
 
 - id: pub_thesis
-  translation: Thesis
+  translation: Psychology
 
 - id: pub_patent
-  translation: Patent
+  translation: Anthropology
 
 # Project details
 
