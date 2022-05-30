@@ -37,5 +37,5 @@ design:
 ---
 
 {{% callout note %}}
-You can also search and filter within the [full catalog of published articles.](./publication/).
+You can also search and filter within the [full catalog of published articles](./publication/).
 {{% /callout %}}
