@@ -8,8 +8,8 @@ featured: false
 
 lastmod: "2022-05-29"
 projects: []
-subtitle: Everything you need to know about submitting an article at *Atheneia* and navigating the review process.
-summary: Everything you need to know about submitting an article at *Atheneia* and navigating the review process.
+subtitle: Everything you need to know about submitting an article at *Aletheia* and navigating the review process.
+summary: Everything you need to know about submitting an article at *Aletheia* and navigating the review process.
 title: Instructions for Paper Submissions
 ---
 

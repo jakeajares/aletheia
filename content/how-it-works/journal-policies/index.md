@@ -9,8 +9,8 @@ featured: false
 
 lastmod: "2022-05-29"
 projects: []
-subtitle: All of *Atheneia's* policies in one place.
-summary: All of *Atheneia's* policies in one place.
+subtitle: All of *Aletheia's* policies in one place.
+summary: All of *Aletheia's* policies in one place.
 title: Journal Policies
 ---
 

@@ -11,8 +11,8 @@ featured: false
 
 lastmod: "2022-05-29"
 projects: []
-subtitle: How to volunteer to review an article for *Atheneia*, and instructions for writing and submitting a review.
-summary: How to volunteer to review an article for *Atheneia*, and instructions for writing and submitting a review.
+subtitle: How to volunteer to review an article for *Aletheia*, and instructions for writing and submitting a review.
+summary: How to volunteer to review an article for *Aletheia*, and instructions for writing and submitting a review.
 title: Instructions for Reviewers
 ---
 
