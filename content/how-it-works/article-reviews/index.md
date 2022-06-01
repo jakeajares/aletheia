@@ -6,6 +6,7 @@ categories:
 - reviews
 - journal_policies
 date: "2022-05-29"
+show_date: false
 draft: false
 featured: false
 
