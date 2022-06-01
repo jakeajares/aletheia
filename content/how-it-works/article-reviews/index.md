@@ -5,11 +5,11 @@
 categories:
 - reviews
 - journal_policies
-date: "2022-05-29"
+date: ""
 draft: false
 featured: false
 
-lastmod: "2022-05-29"
+lastmod: ""
 projects: []
 subtitle: How to volunteer to review an article for *Aletheia*, and instructions for writing and submitting a review.
 summary: How to volunteer to review an article for *Aletheia*, and instructions for writing and submitting a review.
