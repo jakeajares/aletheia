@@ -5,6 +5,7 @@ categories:
 date: "2022-05-29"
 draft: false
 featured: false
+show_date: false
 
 lastmod: "2022-05-29"
 projects: []
