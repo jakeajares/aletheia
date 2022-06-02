@@ -9,7 +9,7 @@ headless: true
 weight: 130
 
 title: Contact
-subtitle: Feel free to reach out with any suggestions or questions!
+subtitle: Feel free to reach out with any suggestions or questions! Aletheia is a project run by Neil Malhotra and Jake Jares of Stanford University.
 
 content:
   # Contact details (edit or remove options as required)
