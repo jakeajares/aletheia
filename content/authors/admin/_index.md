@@ -1,21 +1,19 @@
 ---
-bio: This is a short snippet to describe Aletheia on any posts we make.
+bio: A platform for disseminating research committed to transparency and efficiency.
 email: ""
 highlight_name: true
 title: Aletheia
 
-role: The Something Something Journal
+role: Peer-Reviewed Preprints
 social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/Alethei36258101
 superuser: true
 ---
 
-I guess here is where we say that Aletheia is a journal with a 100\% acceptance rate and it's meant to fix some of the most common complaints with peer review. Something about the philosophy about what's going wrong, and what we're trying to do instead here.
-
-This is a test to see if editing the page works.
+Aletheia is a platform for disseminating research. Unlike a peer reviewed journal, there is no gatekeeping---all research is transparently communicated. Unlike a preprint repository, research undergoes peer review. The core values of Aletheia are transparency, opennness, and the search for truth via the exchange of ideas.
 
