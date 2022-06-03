@@ -4,7 +4,7 @@ categories:
 - reviews
 - submissions
 date: "2022-05-29"
-draft: true
+draft: false
 featured: false
 show_date: false
 lastmod: "2022-05-29"
@@ -16,6 +16,12 @@ title: Journal Policies
 
 ## Journal Policies
 
-1. Submit actual research.
-2. Don't saw awful things or disparage groups. 
-3. Something something make the right disclaimers.
+Although the goal of Aletheia is to facilitate an open exchange of ideas, the moderators have the discretion to not post certain content. The following rules provide general guidance around moderation:
+
+1. All submissions must be original work, with full attribution/citations to any other authors' work.
+
+2. No hateful or offensive language.
+
+3. No ad hominem attacks.
+
+4. Submissions are limited to scientific content.
