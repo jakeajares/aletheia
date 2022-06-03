@@ -11,7 +11,7 @@ social:
   link: /#contact
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/Alethei36258101
+  link: https://twitter.com/aletheia_tweets
 superuser: true
 ---
 
