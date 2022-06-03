@@ -16,11 +16,11 @@ title: Frequently Asked Questions
 
 ## 1. What is Aletheia? 
 
-Aletheia is a platform for disseminating peer-reviewed preprints. Unlike platforms such as OSF, SSRN, or arXiv, research posted on Aletheia undergoes peer review. Unlike a traditional peer-reviewed journal publication, there is no gatekeeping. 100\% of original research submitted to Aletheia that abides by journal content policies and undergoes peer review is posted for dissemination. All parts of the research production process---the original submission, the non-anonymous peer reviews, the response memo, and the revised submission---are posted transparently. 
+Aletheia is a platform for disseminating peer-reviewed preprints. Unlike platforms such as OSF, SSRN, or arXiv, research posted on Aletheia undergoes peer review. Unlike a traditional peer-reviewed journal publication, there is no gatekeeping. 100\% of original research submitted to Aletheia that abides by the platform's content policies and undergoes peer review is posted for dissemination. All parts of the research production process---the original submission, the non-anonymous peer reviews, the response memo, and the revised submission---are posted transparently. 
 
 ## 2. Can I submit my article to a peer-reviewed journal after posting to Aletheia?
 
-Yes, although you should check the policies of the journal. Aletheia is no different from any other preprint of working paper platform such as OSF, NBER, arXiv, or SSRN. In fact, all research is hosted on OSF. Aletheia provides the infrastructure for peer review. You can consider submitting your entire Aletheia package---the research, non-anonymous peer reviews, and the response memo---to the journal. Journal editors can also peruse the Aletheia platform to solicit research for their journals.
+Yes, although you should check the policies of the journal. In this sense, Aletheia is no different from any other preprint or working paper platform such as OSF, NBER, arXiv, or SSRN. In fact, all research is hosted on OSF. Aletheia provides the infrastructure for peer review. You can consider submitting your entire Aletheia package---the research, non-anonymous peer reviews, and the response memo---to the journal. Journal editors can also peruse the Aletheia platform to solicit research for their journals.
 
 ## 3. Who should use Aletheia?
 
