@@ -11,10 +11,10 @@ lastmod: "2022-05-29"
 projects: []
 subtitle: All of *Aletheia's* policies in one place.
 summary: All of *Aletheia's* policies in one place.
-title: Journal Policies
+title: Platform Policies
 ---
 
-## Journal Policies
+## Platform Policies
 
 Although the goal of Aletheia is to facilitate an open exchange of ideas, the moderators have the discretion to not post certain content. The following rules provide general guidance around moderation:
 
