@@ -20,8 +20,10 @@ Although the goal of Aletheia is to facilitate an open exchange of ideas, the mo
 
 1. All submissions must be original work, with full attribution/citations to any other authors' work.
 
-2. No hateful or offensive language.
+2. Hateful or offensive language is prohibited.
 
-3. No ad hominem attacks.
+3. Submissions may not feature ad hominem attacks.
 
 4. Submissions are limited to scientific content.
+
+Each of these rules applies to all forms of content submitted to Aletheia, including article submissions, reviews, and comments.
