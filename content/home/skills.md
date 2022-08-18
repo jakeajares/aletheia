@@ -17,7 +17,7 @@ active: true
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: All submissions that comply with the platform's content policies are accepted for publication after completing Aletheia's peer feedback process.
+  - description: All submissions that comply with the platform's content policies are accepted after completing Aletheia's peer feedback process.
     icon: x
     icon_pack: fab
     name: No Gatekeeping

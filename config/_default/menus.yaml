@@ -10,8 +10,8 @@ main:
   - name: How It Works
     url: '#how-it-works'
     weight: 20
-  - name: Publications
-    url: '/publication'
+  - name: Articles
+    url: '/articles'
     weight: 50
   - name: Contact
     url: '#contact'
