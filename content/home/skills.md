@@ -17,14 +17,14 @@ active: true
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: All submissions that comply with the platform's content policies are accepted for publication after completing peer review.
+  - description: All submissions that comply with the platform's content policies are accepted for publication after completing Aletheia's peer feedback process.
     icon: x
     icon_pack: fab
     name: No Gatekeeping
-  - description: No drawn-out, multi-round R&R process, and all reviews are signed and publicly available.
+  - description: No drawn-out, multi-round R&R process. All reviews are signed and publicly available.
     icon: comments
     icon_pack: fas
-    name: Efficient and Transparent Peer Review
+    name: Efficient and Transparent Feedback
   - description: All research is freely available to the public, and there are no publication fees.
     icon: lock-open
     icon_pack: fas
