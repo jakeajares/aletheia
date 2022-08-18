@@ -15,6 +15,6 @@ social:
 superuser: true
 ---
 
-Aletheia is a platform for disseminating research that seeks to rethink how we communicate the discovery of knowledge. Unlike a peer-reviewed journal, there is no gatekeeping---all research is transparently communicated. Unlike a preprint repository, research undergoes peer review. The core values of Aletheia are transparency, opennness, and the search for truth via the exchange of ideas.
+Aletheia is a platform for disseminating research that seeks to rethink how we communicate the discovery of knowledge. Unlike a peer-reviewed journal, there is no gatekeeping---all research is transparently communicated. Unlike a preprint repository, research is evaluated and critiqued through a formal peer feedback process. In contrast to a journal's emphasis on peer review as a screening mechanism, feedback through Aletheia is aimed at promoting and contributing to a broader public discussion surrounding a piece of research. The core values of Aletheia are transparency, opennness, and the search for truth via the exchange of ideas.
 
 
