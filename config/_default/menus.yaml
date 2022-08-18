@@ -11,7 +11,7 @@ main:
     url: '#how-it-works'
     weight: 20
   - name: Articles
-    url: '/articles'
+    url: '/publication'
     weight: 50
   - name: Contact
     url: '#contact'
