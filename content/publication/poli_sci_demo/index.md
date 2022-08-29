@@ -9,7 +9,7 @@ date: "2018-08-04T00:00:00Z"
 doi: ""
 publication_types:
 - "2"
-featured: true
+featured: false
 projects:
 - poli_sci_demo
 publishDate: "2018-08-10T00:00:00Z"

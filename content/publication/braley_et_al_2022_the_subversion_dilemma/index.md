@@ -30,31 +30,31 @@ links:
 - icon: file
   icon_pack: fa
   name: Revised Submission
-  url: https://osf.io/qc5vt/
+  url: https://osf.io/qb4wm
 - icon: file
   icon_pack: fa
   name: Initial Submission
-  url: https://osf.io/whjdb/
+  url: https://osf.io/h894n
 - icon: comment
   icon_pack: fa
   name: Review A
-  url: https://osf.io/cwx6p/
+  url: https://osf.io/fz7nx
 - icon: comment
   icon_pack: fa
   name: Review B
-  url: https://osf.io/ezxcr/
+  url: https://osf.io/uxv6q
 - icon: comment
   icon_pack: fa
   name: Review C
-  url: https://osf.io/ezxcr/
+  url: https://osf.io/g9by4
 - icon: comments
   icon_pack: fa
   name: Response to Reviews
-  url: https://osf.io/9vgz2/
+  url: https://osf.io/yv8d5
 - icon: osf
   icon_pack: ai
   name: OSF Repo
-  url: https://osf.io/b8tpf/?view_only=d6ba0ad1930b46049707cd96a14f03b7
+  url: https://osf.io/npa9x/?view_only=4e28b361391c4b21855a3daae9d07a13
 
 ---
 * Initial manuscript received on 06/08/2022
