@@ -60,11 +60,11 @@ links:
 * Initial manuscript received on 06/08/2022
 * Revised manuscript and response to reviews received on 08/26/2022
 * Reviewers
-    * Matt Graham
-        * Review received on 07/11/2022
-        * Compensated with $100 honorarium
     * Dan Bischof
         * Review received on 07/15/2022
+        * Compensated with $100 honorarium
+    * Matt Graham
+        * Review received on 07/11/2022
         * Compensated with $100 honorarium
     * Andy Guess
         * Review received on 07/11/2022
