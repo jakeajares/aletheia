@@ -43,6 +43,10 @@ links:
   icon_pack: fa
   name: Review B
   url: https://osf.io/ezxcr/
+- icon: comment
+  icon_pack: fa
+  name: Review C
+  url: https://osf.io/ezxcr/
 - icon: comments
   icon_pack: fa
   name: Response to Reviews
@@ -53,7 +57,15 @@ links:
   url: https://osf.io/b8tpf/?view_only=d6ba0ad1930b46049707cd96a14f03b7
 
 ---
-
-Supplementary notes about the article, perhaps detailing timeline of publication and names of reviewers.
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+* Initial manuscript received on 06/08/2022
+* Revised manuscript and response to reviews received on 08/26/2022
+* Reviewers
+    * Matt Graham
+        * Review received on 07/11/2022
+        * Compensated with $100 honorarium
+    * Dan Bischof
+        * Review received on 07/15/2022
+        * Compensated with $100 honorarium
+    * Andy Guess
+        * Review received on 07/11/2022
+        * No compensation for reviewing
