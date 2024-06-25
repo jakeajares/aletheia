@@ -69,3 +69,5 @@ links:
     * Andy Guess
         * Review received on 07/11/2022
         * No compensation for reviewing
+        
+**Note: A revised version of this paper has been published in [Nature Human Behaviour](https://doi.org/10.1038/s41562-023-01594-w).**
