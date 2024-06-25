@@ -73,3 +73,5 @@ links:
     * Yamil Velez
         * Review received on 04/27/2023
         * Compensated with $100 honorarium
+        
+**Note: A revised version of this article is forthcoming at the *American Political Science Review*.**
